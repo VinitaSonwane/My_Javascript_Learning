@@ -1,6 +1,6 @@
 # 🚀 Welcome to JavaScript Journey 🚀
 
-![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript Logo" width="800">
 
 ## Introduction
 
@@ -20,13 +20,13 @@ Welcome to the JavaScript Journey, where you'll embark on an exciting adventure 
 
 Ready to embark on your JavaScript journey? Here's how to get started:
 
-1. **Clone the Repository**: `git clone https://github.com/your-username/javascript-journey.git`
+1. **Clone the Repository**: `git clone https://github.com/VinitaSonwane/Javascript_Learning.git`
 2. **Take on Challenges**: Head over to the `challenges` directory to tackle our coding challenges and projects.
 
 
 ## Contributing
 
-We believe that learning is a collaborative effort, and we welcome contributions from developers of all skill levels. Whether you want to fix a typo, improve an existing lesson, or add a new project, your contributions are invaluable. Check out our [Contribution Guidelines](CONTRIBUTING.md) to get started.
+We believe that learning is a collaborative effort, and we welcome contributions from developers of all skill levels. Whether you want to fix a typo, improve an existing lesson, or add a new project, your contributions are invaluable. 
 
 ## Spread the Word
 
@@ -37,6 +37,3 @@ Help us spread the joy of JavaScript learning! Share this repository with your f
 
 Enough talk—let's dive in and start coding! Your JavaScript journey awaits. Happy coding! 🎉
 
----
-
-*If you have any questions or need assistance, don't hesitate to reach out to us at [your-email@example.com].*
