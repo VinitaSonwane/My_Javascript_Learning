@@ -2,6 +2,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript Logo" width="800">
 
+
 ## Introduction
 
 Welcome to the JavaScript Journey, where you'll embark on an exciting adventure into the world of JavaScript programming. Whether you're a seasoned developer looking to enhance your skills or a newcomer eager to dive into the world of coding, this repository is your ultimate guide.
