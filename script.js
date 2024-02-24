@@ -52,8 +52,9 @@ if (age < 18) {
 
 
 
-//let name = prompt("hello");
-//console.log(name);
+let name = prompt("hello");
+console.log(name);
+
 
 let number = prompt("Enter a number ");
 console.log(number);
