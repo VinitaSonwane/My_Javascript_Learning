@@ -174,7 +174,7 @@ str.toUpperCase()
 str.toLowerCase()
 str.trim() // removes whitespaces of starting and ending str */
 
-/*let str1 = "gcoeara";
+let str1 = "gcoeara";
 //let newStr1 = str1.toUpperCase();      // for upper case 
 let newStr1 = str1.toLowerCase(); // for lower case 
 console.log(str);
