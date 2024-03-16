@@ -215,6 +215,7 @@ console.log(str6.charAt(2));
 E.g user name = "vinitasonwane", username should be "@vinitasonwane123"*/
 
 
+
 let fullName1 = prompt("enter your fullname without spaces");
 let username = "@" + fullName1 + fullName1.length;
 console.log(username);
